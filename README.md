@@ -3,7 +3,7 @@ Vulcan Spider
 A spider use gevent and multi-thread module,support webkit for dom parsing.
 
 基于gevent和多线程模型，支持WebKit引擎的动态爬虫框架。
-
+http://www.pnigos.com/?p=217
 ### 特性
 
 1. 支持gevent和多线程两种并行模型
